@@ -1,0 +1,13 @@
+
+import __ASTRO_IMAGE_IMPORT_1DvfnE from "./img/neal.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fteam%2Fneal.md";
+import __ASTRO_IMAGE_IMPORT_2cpJIl from "./img/casey.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fteam%2Fcasey.md";
+import __ASTRO_IMAGE_IMPORT_2qBmCG from "./img/kristin.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fteam%2Fkristin.md";
+import __ASTRO_IMAGE_IMPORT_1yW2j0 from "img/experiment.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Fexperiment.md";
+import __ASTRO_IMAGE_IMPORT_Zl2RpN from "img/collaboration.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Fcollaboration.md";
+import __ASTRO_IMAGE_IMPORT_1NIzjc from "./img/music.png?astroContentImageFlag=&importer=src%2Fcontent%2Fworkshops%2F03-maxmsp.md";
+import __ASTRO_IMAGE_IMPORT_Z28tA8g from "img/art.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Ffusion.md";
+import __ASTRO_IMAGE_IMPORT_wNTbO from "./img/p5.png?astroContentImageFlag=&importer=src%2Fcontent%2Fworkshops%2F02-p5js.md";
+import __ASTRO_IMAGE_IMPORT_1tKvD from "img/learning.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Flearning.md";
+import __ASTRO_IMAGE_IMPORT_1DTnXD from "./img/draw.png?astroContentImageFlag=&importer=src%2Fcontent%2Fworkshops%2F01-penplotter.md";
+export default new Map([["./img/neal.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fteam%2Fneal.md", __ASTRO_IMAGE_IMPORT_1DvfnE], ["./img/casey.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fteam%2Fcasey.md", __ASTRO_IMAGE_IMPORT_2cpJIl], ["./img/kristin.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fteam%2Fkristin.md", __ASTRO_IMAGE_IMPORT_2qBmCG], ["img/experiment.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Fexperiment.md", __ASTRO_IMAGE_IMPORT_1yW2j0], ["img/collaboration.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Fcollaboration.md", __ASTRO_IMAGE_IMPORT_Zl2RpN], ["./img/music.png?astroContentImageFlag=&importer=src%2Fcontent%2Fworkshops%2F03-maxmsp.md", __ASTRO_IMAGE_IMPORT_1NIzjc], ["img/art.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Ffusion.md", __ASTRO_IMAGE_IMPORT_Z28tA8g], ["./img/p5.png?astroContentImageFlag=&importer=src%2Fcontent%2Fworkshops%2F02-p5js.md", __ASTRO_IMAGE_IMPORT_wNTbO], ["img/learning.png?astroContentImageFlag=&importer=src%2Fcontent%2Ffoundations%2Flearning.md", __ASTRO_IMAGE_IMPORT_1tKvD], ["./img/draw.png?astroContentImageFlag=&importer=src%2Fcontent%2Fworkshops%2F01-penplotter.md", __ASTRO_IMAGE_IMPORT_1DTnXD]]);
+		
